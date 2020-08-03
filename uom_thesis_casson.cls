@@ -210,6 +210,7 @@
 \newenvironment{uomacknowledgements}{
   \phantomsection\addcontentsline{toc}{chapter}{Acknowledgements}
   \chapter*{Acknowledgements}
+  \bookmarksetup{startatroot}
 }
 {\clearpage}
 
@@ -230,7 +231,6 @@
     \item The ownership of certain Copyright, patents, designs, trademarks and other intellectual property (the ``Intellectual Property'') and any reproductions of copyright works in the thesis, for example graphs and tables (``Reproductions''), which may be described in this thesis, may not be owned by the author and may be owned by third parties. Such Intellectual Property and Reproductions cannot and must not be made available for use without the prior written permission of the owner(s) of the relevant Intellectual Property and/or Reproductions.
 	\item Further information on the conditions under which disclosure, publication and commercialisation of this thesis, the Copyright and any Intellectual Property and/or Reproductions described in it may take place is available in the University IP Policy (see \url{http://documents.manchester.ac.uk/DocuInfo.aspx?DocID=24420}), in any relevant Thesis restriction declarations deposited in the University Library, The University Library’s regulations (see \url{http://www.library.manchester.ac.uk/about/regulations/}) and in The University’s policy on Presentation of Theses.
   \end{enumerate}
-  \bookmarksetup{startatroot}
   \clearpage
 }
 
